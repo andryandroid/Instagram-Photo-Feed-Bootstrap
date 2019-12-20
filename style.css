@@ -1,0 +1,58 @@
+#feed{
+    background-color:#E2E2E2;
+}
+
+.card{
+    margin: 30px; 
+}
+
+.col{
+    margin: 0px auto;
+}
+
+ .card-body{
+    padding: 0px 0px 0px 0px; 
+}
+
+.title{
+    display:inline !important;
+    margin: 10px 10px;
+}
+
+.izq{
+    float: right;
+}
+
+.card-img-top{
+    border-radius: 0px;
+}
+
+.footerCard{
+    margin: 10px 10px;
+}
+
+.nav{
+    margin: 10px 50px;
+    width: 100%;
+}
+
+.rightNav{
+float: right;
+}
+
+.feed{
+padding: 2px 2px;
+overflow: hidden;
+}
+
+ .img-feed{
+height: 300px;
+ }
+
+ .container{
+     padding: 0px;
+     margin: 0px;
+     max-width: 100%;
+ }
+
+ 
